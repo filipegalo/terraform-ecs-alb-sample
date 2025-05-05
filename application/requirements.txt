@@ -1,0 +1,12 @@
+# Web framework for building the application
+Flask==3.1.0
+# SQLAlchemy integration for Flask, provides ORM functionality
+Flask-SQLAlchemy==3.1.1
+# PostgreSQL adapter for Python, binary version for easier installation
+psycopg2-binary==2.9.10
+# AWS SDK for Python, used for AWS services integration
+boto3==1.37.28
+# Database migration tool for Flask applications
+Flask-Migrate==4.1.0
+# Loads environment variables from .env files
+python-dotenv==1.1.0
